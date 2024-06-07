@@ -107,4 +107,9 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor 
     git push origin feature/nueva-funcionalidad
     ```
 
-5. **Abre un Pull Request.**
+5. **Abre un Pull Request:**
+
+   - Ve al repositorio original en GitHub.
+   - Haz clic en el botón "Compare & pull request" cerca de tu rama.
+   - Añade un título y una descripción para tu Pull Request.
+   - Revisa los cambios y haz clic en "Create pull request".
